@@ -1,0 +1,25 @@
+هذه البيانات من الملف الأصلي وليست مراجع موثّقة. يُرجى تأكيد العناوين والمؤلفين والمجلة والسنة وDOI قبل إعادة نشرها.
+
+  const publications = [
+    {
+      title: "CoDA and geochemical signatures of the terminal complex aquifer",
+      year: "2024",
+      journal: "Environmental Earth Sciences / Hydrogeology",
+      authors: "Azzeddine Reghais, et al.",
+      link: "https://www.researchgate.net/profile/Azzeddine-Reghais"
+    },
+    {
+      title: "Hydrogeochemical characterization and quality assessment of groundwater in NE Algeria",
+      year: "2022",
+      journal: "Journal of African Earth Sciences",
+      authors: "Azzeddine Reghais, et al.",
+      link: "https://www.researchgate.net/profile/Azzeddine-Reghais"
+    },
+    {
+      title: "Geological Mapping and Structural Data Analysis in Complex Sedimentary Basins",
+      year: "2021",
+      journal: "Geocarto International",
+      authors: "Azzeddine Reghais, et al.",
+      link: "https://www.researchgate.net/profile/Azzeddine-Reghais"
+    }
+  ];
